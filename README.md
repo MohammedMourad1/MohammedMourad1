@@ -1,16 +1,18 @@
 ## Hi there 👋
+# Hey 👋 What's up?
 
-<!--
-**MohammedMourad1/MohammedMourad1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Mohammed Ahmed Mourad  and I'm communication Engineer, from Egypt.
+![image](https://github.com/user-attachments/assets/2738df61-2df4-43f7-965f-45d8329942ff)
+**************************************************
+About ME 👋
+**************************************************
+With a degree in Communication and Electronics Engineering, I am prepared to take on real-world
+engineering challenges and eager to grow in a dynamic, forward-thinking environment. I am seeking an
+opportunity with a reputable company where I can apply my technical knowledge while continuing to
+expand my expertise in communication technologies. Motivated, adaptable, and committed to
+continuous learning, I look forward to contributing meaningfully to the success of an innovative
+organization.
 
-Here are some ideas to get you started:
+![image](https://github.com/user-attachments/assets/57b2cd75-0375-4269-828c-b4a29d4d1341)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
