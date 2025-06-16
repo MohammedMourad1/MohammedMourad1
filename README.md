@@ -3,8 +3,7 @@
 My name is Mohammed Ahmed Mourad and I'm a Communication Engineer from Egypt.  
 
 <div align="center">
-  <img ![image](https://github.com/user-attachments/assets/2d1cc87a-7b99-419f-8ff1-e007b5464243)
- width="350" />
+  <img src="https://github.com/user-attachments/assets/2d1cc87a-7b99-419f-8ff1-e007b5464243" width="350" />
 </div>
 
 **************************************************
@@ -18,6 +17,5 @@ continuous learning, I look forward to contributing meaningfully to the success 
 organization.  
 
 <div align="center">
-  <img s![image](https://github.com/user-attachments/assets/a5dda23a-3d5c-4b47-a561-b804dd7df4c5)
- width="350" />
+  <img src="https://github.com/user-attachments/assets/a5dda23a-3d5c-4b47-a561-b804dd7df4c5" width="350" />
 </div>
