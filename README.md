@@ -1,7 +1,8 @@
 # Hey 👋 What's up?
 
 My name is Mohammed Ahmed Mourad  and I'm communication Engineer, from Egypt.
-![image](https://github.com/user-attachments/assets/2738df61-2df4-43f7-965f-45d8329942ff)
+![image](https://github.com/user-attachments/assets/bc511e86-17a5-4a33-9af4-292be43f60b2)
+
 **************************************************
 # About ME 👋
 **************************************************
@@ -11,7 +12,7 @@ opportunity with a reputable company where I can apply my technical knowledge wh
 expand my expertise in communication technologies. Motivated, adaptable, and committed to
 continuous learning, I look forward to contributing meaningfully to the success of an innovative
 organization.
+![image](https://github.com/user-attachments/assets/a6a433e7-22c9-4f87-9f6d-1cae775cfa19)
 
-![image](https://github.com/user-attachments/assets/57b2cd75-0375-4269-828c-b4a29d4d1341)
 
  
