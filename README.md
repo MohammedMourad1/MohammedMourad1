@@ -11,24 +11,7 @@ A DevOps Engineer with hands-on experience in automating software delivery by bu
 
 
 <h3 align="left">🌐 Connect with me:</h3>
-
-<table>
-  <tr>
-    <td align="left">
-      <a href="https://linkedin.com/in/mohammedmourad1" target="_blank">
-        <img src="https://img.icons8.com/color/96/linkedin.png" width="64"/>
-      </a>
-      &nbsp;
-      <a href="mailto:mohammedmourad1@outlook.com">
-        <img src="https://img.icons8.com/color/96/ms-outlook.png" width="64"/>
-      </a>
-    </td>
-    <td align="right">
-      <img src="https://komarev.com/ghpvc/?username=mohammedmourad1&label=Profile%20views&color=0e75b6&style=flat"/>
-    </td>
-  </tr>
-</table>
-
+<p><a href="https://linkedin.com/in/mohammedmourad1" target="_blank" style="text-decoration:none;"><img src="https://img.icons8.com/color/96/linkedin.png" width="64" /></a>&nbsp;&nbsp;<a href="mailto:mohammedmourad1@outlook.com" style="text-decoration:none;"><img src="https://img.icons8.com/color/96/ms-outlook.png" width="64" /></a></p>
 
 
 
