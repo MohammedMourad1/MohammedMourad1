@@ -1,4 +1,5 @@
 <h1 align="center">Hi There👋, I'm Mohammed Ahmed Mourad</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedmourad1&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedmourad1" /> </p>
 <h3 align="center">
   DevOps Engineer | Linux System Administrator | Cloud & Automation Enthusiast
 </h3>
