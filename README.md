@@ -8,21 +8,25 @@ A DevOps Engineer with hands-on experience in automating software delivery by bu
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/mohammedmourad1" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-         alt="LinkedIn"
-         height="32"
-         width="32" />
+    <img
+      src="https://img.icons8.com/color/96/linkedin.png"
+      alt="LinkedIn"
+      width="64"
+      height="64"
+      style="margin-right:16px;"
+    />
   </a>
-
-  &nbsp;&nbsp;
 
   <a href="mailto:mohammedmourad1@outlook.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_Outlook_2013-2019_logo.svg"
-         alt="Outlook"
-         height="32"
-         width="32" />
+    <img
+      src="https://img.icons8.com/color/96/ms-outlook.png"
+      alt="Outlook"
+      width="64"
+      height="64"
+    />
   </a>
 </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
