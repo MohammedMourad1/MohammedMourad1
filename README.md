@@ -7,14 +7,13 @@ A DevOps Engineer with hands-on experience in automating software delivery by bu
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/mohammedmourad1" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="LinkedIn"
-          />
-  </a>
+ <a href="https://linkedin.com/in/mohammedmourad1" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20&cacheSeconds=1"
+       height="30" />
+</a>
 
  <a href="mailto:mohammedmourad1@outlook.com">
-  <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"
+  <img src="https://img.shields.io/badge/EMAIL-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white&logoWidth=20&cacheSeconds=1"
        height="30" />
 </a>
 
