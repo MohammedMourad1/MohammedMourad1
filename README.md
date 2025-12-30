@@ -6,24 +6,8 @@ A DevOps Engineer with hands-on experience in automating software delivery by bu
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedmourad1&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedmourad1" /> </p>
 
 <h3 align="left">Connect with me:</h3>
-<p>
-  <span>
-    <a href="https://linkedin.com/in/mohammedmourad1"
-       target="_blank"
-       style="text-decoration:none; outline:none; box-shadow:none;">
-      <img src="https://img.icons8.com/color/96/linkedin.png" width="64" />
-    </a>
-  </span>
+<p><a href="https://linkedin.com/in/mohammedmourad1" target="_blank" style="text-decoration:none;"><img src="https://img.icons8.com/color/96/linkedin.png" width="64" /></a>&nbsp;&nbsp;<a href="mailto:mohammedmourad1@outlook.com" style="text-decoration:none;"><img src="https://img.icons8.com/color/96/ms-outlook.png" width="64" /></a></p>
 
-  &nbsp;&nbsp;&nbsp;
-
-  <span>
-    <a href="mailto:mohammedmourad1@outlook.com"
-       style="text-decoration:none; outline:none; box-shadow:none;">
-      <img src="https://img.icons8.com/color/96/ms-outlook.png" width="64" />
-    </a>
-  </span>
-</p>
 
 
 
