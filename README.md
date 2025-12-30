@@ -1,6 +1,4 @@
-# Hey 👋 What's up?
-
-<h1 align="center">Hi 👋, I'm Mohammed Ahmed Mourad</h1>
+<h1 align="center">Hi There👋, I'm Mohammed Ahmed Mourad</h1>
 <h3 align="center">
   DevOps Engineer | Linux System Administrator | Cloud & Automation Enthusiast
 </h3>
