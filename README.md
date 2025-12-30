@@ -28,7 +28,7 @@ A DevOps Engineer trainee with a background in Communication and Electronics Eng
 
 
 
-**************************************************
+
 # About ME 👋
 **************************************************
 With a degree in Communication and Electronics Engineering, I am prepared to take on real-world
