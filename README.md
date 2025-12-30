@@ -27,9 +27,6 @@ A DevOps Engineer trainee with a background in Communication and Electronics Eng
 <p><a href="https://www.buymeacoffee.com/mohammedmourad1"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mohammedmourad1" /></a></p><br><br>
 
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/2d1cc87a-7b99-419f-8ff1-e007b5464243" width="350" />
-</div>
 
 **************************************************
 # About ME 👋
