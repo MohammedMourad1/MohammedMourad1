@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0c0cfe2e-10a6-49d3-8aa0-c06531bb1b85" /><h1 align="center">Hi There👋, I'm Mohammed Ahmed Mourad</h1>
+<h1 align="center">Hi There👋, I'm Mohammed Ahmed Mourad</h1>
 <h3 align="center">
   DevOps Engineer | Linux System Administrator | Cloud & Automation Enthusiast
 </h3>
@@ -55,9 +55,7 @@ A DevOps Engineer trainee with a background in Communication and Electronics Eng
 
 ⭐️ *"Automate everything you can — because consistency beats manual effort every time."*
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/ed67c60d-a7b8-49a1-b809-728dbd066e4c" width="350" />
-</div>
+
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ed67c60d-a7b8-49a1-b809-728dbd066e4c" />
 
 
