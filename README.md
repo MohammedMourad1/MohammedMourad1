@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedmourad1&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedmourad1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammedmourad1" alt="mohammedmourad1" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohammedmourad1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammedmourad1" height="30" width="40" /></a>
@@ -17,10 +15,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mohammedmourad1"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mohammedmourad1" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedmourad1&show_icons=true&locale=en&layout=compact" alt="mohammedmourad1" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammedmourad1&show_icons=true&locale=en" alt="mohammedmourad1" /></p>
 
 
 <div align="center">
