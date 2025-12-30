@@ -13,10 +13,10 @@ A DevOps Engineer with hands-on experience in automating software delivery by bu
           />
   </a>
 
-  <a href="mailto:mohammedmourad1@outlook.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=outlook&logoColor=white"
-         height="30" />
-  </a>
+ <a href="mailto:mohammedmourad1@outlook.com">
+  <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=outlook&logoColor=white"
+       height="30" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
