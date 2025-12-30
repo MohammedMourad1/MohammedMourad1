@@ -1,7 +1,9 @@
 # Hey 👋 What's up?
 
 <h1 align="center">Hi 👋, I'm Mohammed Ahmed Mourad</h1>
-<h3 align="center"DevOps Engineer | Linux System Administrator | Cloud & Automation Enthusiast</h3>
+<h3 align="center">
+  DevOps Engineer | Linux System Administrator | Cloud & Automation Enthusiast
+</h3>
 A DevOps Engineer trainee with a background in Communication and Electronics Engineering. Currently completing hands-on training at the National Telecommunications Institute, Egypt, with a focus on cloud platforms, automation, CI/CD pipelines, and containerization. Passionate about problem-solving and eager to leverage both engineering foundations and DevOps practices to deliver scalable, efficient, and reliable solutions. Motivated by continuous learning and committed to contributing to innovative.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedmourad1&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedmourad1" /> </p>
