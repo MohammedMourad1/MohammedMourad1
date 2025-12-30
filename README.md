@@ -1,7 +1,5 @@
 <h1 align="center">Hi There👋, I'm Mohammed Ahmed Mourad</h1>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohammedmourad1&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+
 
 
 <h3 align="center">
