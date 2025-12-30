@@ -9,18 +9,17 @@ A DevOps Engineer with hands-on experience in automating software delivery by bu
 <p align="left">
   <a href="https://linkedin.com/in/mohammedmourad1"
      target="_blank"
-     style="text-decoration: none;">
+     style="text-decoration: none; display: inline-block; margin-right:16px;">
     <img
       src="https://img.icons8.com/color/96/linkedin.png"
       alt="LinkedIn"
       width="64"
       height="64"
-      style="margin-right:16px;"
     />
   </a>
 
   <a href="mailto:mohammedmourad1@outlook.com"
-     style="text-decoration: none;">
+     style="text-decoration: none; display: inline-block;">
     <img
       src="https://img.icons8.com/color/96/ms-outlook.png"
       alt="Outlook"
@@ -29,6 +28,7 @@ A DevOps Engineer with hands-on experience in automating software delivery by bu
     />
   </a>
 </p>
+
 
 
 
