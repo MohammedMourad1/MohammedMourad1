@@ -30,13 +30,30 @@ A DevOps Engineer trainee with a background in Communication and Electronics Eng
 
 
 **************************************************
-# About ME 👋
-With a degree in Communication and Electronics Engineering, I am prepared to take on real-world
-engineering challenges and eager to grow in a dynamic, forward-thinking environment. I am seeking an
-opportunity with a reputable company where I can apply my technical knowledge while continuing to
-expand my expertise in communication technologies. Motivated, adaptable, and committed to
-continuous learning, I look forward to contributing meaningfully to the success of an innovative
-organization.  
+
+### ⚙️ Tech Stack
+
+| Category | Tools / Skills |
+|-----------|----------------|
+| **CI/CD & Automation** | Jenkins · Argo CD · Ansible |
+| **Infrastructure as Code (IaC)** | Terraform |
+| **Containerization & Cloud** | Docker · Kubernetes · OpenShift · AWS Cloud |
+| **Project & Collaboration** | Jira · Git · GitHub |
+| **Operating Systems** | Linux (Ubuntu / Red Hat) |
+| **Scripting & Infra** | Bash · Shell scripting |
+
+---
+
+### 🎓 Certifications & Learning Path
+
+- 🧠 **Red Hat System Administration I & II**
+- 🚀 **Starting My DevOps Career Path**
+- ☁️ **Building Skills in AWS Cloud & Cloud Automation**
+- ⚙️ Focused on mastering **CI/CD**, **Ansible**, **Terraform**, and **Infrastructure as Code**
+
+---
+
+⭐️ *"Automate everything you can — because consistency beats manual effort every time."*
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/a5dda23a-3d5c-4b47-a561-b804dd7df4c5" width="350" />
