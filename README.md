@@ -1,4 +1,11 @@
-<img width="1332" height="749" alt="image" src="https://github.com/user-attachments/assets/07394988-526d-4b40-a18f-453b6535e92a" />
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/07394988-526d-4b40-a18f-453b6535e92a"
+    width="65%"
+    alt="DevOps Banner"
+  />
+</p>
+
 
 <h1 align="center">Hi There👋, I'm Mohammed Ahmed Mourad</h1>
 
