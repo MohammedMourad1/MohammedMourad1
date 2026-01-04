@@ -5,6 +5,10 @@
 <h3 align="center">
   DevOps Engineer | Linux System Administrator | Cloud & Automation Enthusiast
 </h3>
+
+---
+
+## 🧑‍💻 About Me
 A DevOps Engineer with hands-on experience in automating software delivery by building robust CI/CD pipelines. Proficient in configuration management and automation using Ansible, containerizing applications with Docker, orchestrating workloads using Kubernetes, and provisioning scalable infrastructure on cloud platforms with Terraform.
 <br><br>
 
@@ -23,7 +27,7 @@ A DevOps Engineer with hands-on experience in automating software delivery by bu
   </a>
 </p>
 
-
+---
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/mohammedmourad1"><img src="https://img.icons8.com/color/96/linkedin.png" width="64"></a>
@@ -40,8 +44,8 @@ A DevOps Engineer with hands-on experience in automating software delivery by bu
 
 
 
-
-## 🛠️ Tech Stack
+---
+## 🧰 Tech Stack
 
 ### ☁️ Cloud
 <p>
