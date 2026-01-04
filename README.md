@@ -1,8 +1,4 @@
-<img width="2125" height="575" alt="1" src="https://github.com/user-attachments/assets/1286f576-cfec-4144-85fa-b4ad4c2e4e1a" />
-<img width="2125" height="350" alt="2" src="https://github.com/user-attachments/assets/b8fe00de-d553-4ef8-a84e-0961cfe9c2fd" />
-
-
-
+<img width="2338" height="385" alt="2" src="https://github.com/user-attachments/assets/be9f26e2-4bc8-4a2c-a63e-3b70d09ff98a" />
 
 
 <h1 align="center">Hi There👋, I'm Mohammed Ahmed Mourad</h1>
