@@ -18,7 +18,7 @@ A DevOps Engineer with hands-on experience in automating software delivery by bu
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1N-Cgr6EZ0OF50fffMDnUEt_QiVAA-QvH/view">
+  <a href="https://drive.google.com/file/d/1N-Cgr6EZ0OF50fffMDnUEt_QiVAA-QvH/view" target="_blank">
     <img src="https://img.shields.io/badge/My%20CV-00796B?style=flat-square&logo=googledrive&logoColor=white" style="height:34px; object-fit:contain;"/>
   </a>
 </p>
