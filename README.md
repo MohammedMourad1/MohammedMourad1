@@ -5,11 +5,11 @@
 
 <h1 align="center">Hi There👋, I'm Mohammed Ahmed Mourad</h1>
 
-
+<h2 align="center">
+  DevOps & Cloud Engineer
+</h2>
 
 <h3 align="center">
-  DevOps & Cloud Engineer
-    <br>
   2x AWS | 1x GCP | 2x Nutanix
   <br>
   AWS Solutions Architect
