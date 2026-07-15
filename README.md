@@ -10,8 +10,9 @@
 <h3 align="center">
   DevOps & Cloud Engineer
     <br>
-
   2x AWS | 1x GCP | 2x Nutanix
+  <br>
+  AWS Solutions Architect
 </h3>
 
 ---
