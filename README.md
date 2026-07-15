@@ -19,7 +19,7 @@
 ---
 
 ## 🧑‍💻 About Me
-AWS and Google Cloud certified DevOps and Cloud Engineer with hands-on experience in building robust CI/CD pipelines, automating infrastructure, and delivering cloud-native solutions. Strong knowledge of cloud architecture and services, with proficiency in Ansible, Docker, Kubernetes, Terraform, and CI/CD practices. Familiar with leveraging AI tools to enhance engineering productivity, automation, troubleshooting, and problem-solving.
+AWS and Google Cloud certified DevOps and Cloud Engineer with hands-on experience in building robust CI/CD pipelines, automating infrastructure, and delivering cloud-native solutions. Strong knowledge of cloud architecture and services, with proficiency in Ansible, Docker, Kubernetes, and Terraform. Familiar with leveraging AI tools to enhance engineering productivity, automation, and problem-solving.
 <br><br>
 
 <p align="center">
